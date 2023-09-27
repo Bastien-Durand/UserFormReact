@@ -1,0 +1,25 @@
+.card {
+  width: 500px;
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+  z-index: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 35%;
+  left: 30%;
+  border-radius: 2rem;
+}
+
+.darkBG {
+  background-color: rgba(160, 160, 160, 0.517);
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}

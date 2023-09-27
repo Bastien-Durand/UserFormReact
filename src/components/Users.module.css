@@ -1,0 +1,11 @@
+.userCard {
+  background-color: white;
+  color: black;
+  padding: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  text-align: left;
+  margin-top: 1rem;
+  font-weight: 700;
+  font-size: large;
+}
